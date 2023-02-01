@@ -6,4 +6,9 @@ Once the user completes the payment, the application uses the Stripe API to hand
 
 The repository includes detailed instructions on how to set up and run the application, as well as the necessary code snippets to handle the Stripe and Google Pay integration.
 
-This is a sample code and you need to use your own Publishable key, Merchant id and other credentials.
+This is a sample code and you need to use your own Publishable key, Merchant id and other credentials.Make sure you have setup google pay setting by adding your self into group see more details here 
+
+https://developers.google.com/pay/api/android/guides/resources/test-card-suite
+
+You are free to leave or join our test card suite group as needed. To leave, select My membership settings and click Leave group.
+https://groups.google.com/forum/#!forum/googlepay-test-mode-stub-data
